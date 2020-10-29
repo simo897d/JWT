@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jwt-redis": "^5.0.11"
+  }
+}
